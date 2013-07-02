@@ -26,6 +26,7 @@ This package contains full source for the Good SVN package.
 
 #Menu Items#
 
+```
 Window->Just Good Design->Open Good SVN - The Good SVN Panel can be accessed via the menu.
 
 Window->Just Good Design->Links->Good SVN - Opens the Good SVN Product Page
@@ -37,6 +38,7 @@ Window->Just Good Design->Links->Tools->Putty - Putty has pageant to store your 
 Window->Just Good Design->Links->Tools->TortoiseSVN - Opens the TortoiseSVN version control product page
 
 Window->Just Good Design->Links->Tools->Winmerge - Is great and free version comparison tool
+```
 
 
 #Mac Platform#
@@ -102,22 +104,27 @@ Good SVN has areas divided out into "Assets", "Project Settings", "Files, and "C
 
 "Assets" has common functions:
 
+```
 > Update - Runs SVN Update in the Assets folder
 
 > Commit - Runs SVN Commit in the Assets folder
 
 > Add - Runs SVN Add in the Assets folder
+```
 
 "Project Settings" has common functions:
 
+```
 > Update - Runs SVN Update in the ProjectSettings folder
 
 > Commit - Runs SVN Commit in the ProjectSettings folder
 
 > Add - Runs SVN Add in the ProjectSettings folder
+```
 
 "File" does operations to folders and files selected in the project view:
 
+```
 > Update - Runs SVN Update on the selected file(s)
 
 > Commit - Runs SVN Commit on the selected file(s)
@@ -135,9 +142,11 @@ Good SVN has areas divided out into "Assets", "Project Settings", "Files, and "C
 > Rename - Renames on the selected file(s) including a meta file popup
 
 > Edit Conflicts - Opens edit conflicts on the selected file(s)
+```
 
 "Commands" has common functions:
 
+```
 > Revert - Runs SVN revert on the selected file(s)
 
 > Status - Runs SVN status on the selected file(s)
@@ -147,6 +156,7 @@ Good SVN has areas divided out into "Assets", "Project Settings", "Files, and "C
 > Browser - Opens the repro browser on the selected file(s)
 
 > CleanUp - Runs an SVN cleanup at the root level
+```
 
 
 #Support#
