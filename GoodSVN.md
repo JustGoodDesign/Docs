@@ -1,7 +1,7 @@
 Good SVN
 ===
 
-GoodSVN is a product of [Good Products](README.md)
+Good SVN is a product of [Good Products](README.md)
 
 
 #Authors#
