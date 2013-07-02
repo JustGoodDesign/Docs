@@ -1,6 +1,8 @@
 GOOD DROP
 ===
 
+Good Drop is a product of [Good Products](README.md)
+
 
 #Authors#
 
