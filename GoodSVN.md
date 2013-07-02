@@ -2,34 +2,29 @@ Good SVN
 ===
 
 
-Authors
-===
+#Authors#
 
 Jesse Graupmann
 
 Tim Graupmann
 
 
-Audience
-===
+#Audience#
 
 Package contents are targeted towards artists and programmers that want cross-platform-native SVN support.
 
 
-Compatibility
-===
+#Compatibility#
 
 This project is targeted for Unity 3.5.0 or better.
 
 
-Contents
-===
+#Contents#
 
 This package contains full source for the Good SVN package.
 
 
-Menu Items
-===
+#Menu Items#
 
 Window->Just Good Design->Open Good SVN - The Good SVN Panel can be accessed via the menu.
 
@@ -44,8 +39,7 @@ Window->Just Good Design->Links->Tools->TortoiseSVN - Opens the TortoiseSVN vers
 Window->Just Good Design->Links->Tools->Winmerge - Is great and free version comparison tool
 
 
-Mac Platform
-===
+#Mac Platform#
 
 Good SVN has a hook available using TortoiseSVN on Mac which requires CrossOver office.
 
@@ -78,16 +72,14 @@ is the fastest way to add support for SVN 1.7 without a bunch of command line ha
 You can access the preferences in the standard preferences with the Unity->Preferences menu item.
 
 
-Windows
-===
+#Windows#
 
 On Windows, you simply need to install the TortoiseSVN installer with the command-line tools.
 
 You can access the preferences in the standard preferences with the Edit->Preferences menu item.
 
 
-Preferences
-===
+#Preferences#
 
 You'll find 'G|SVN' in the standard preferences.
 
@@ -104,8 +96,7 @@ default to "TortoiseSVN". Here is were you could choose between SVN 1.6 and 1.7 
 by side installs.
 
 
-Good SVN Panel
-===
+#Good SVN Panel#
 
 Good SVN has areas divided out into "Assets", "Project Settings", "Files, and "Commands".
 
@@ -158,8 +149,7 @@ Good SVN has areas divided out into "Assets", "Project Settings", "Files, and "C
 > CleanUp - Runs an SVN cleanup at the root level
 
 
-Support
-===
+#Support#
 
 You can send comments/questions to unity@justgooddesign.com and please post in the forums to share
 
@@ -168,8 +158,7 @@ how you like this product or to make feature requests.
 http://forum.unity3d.com/threads/169759-Good-SVN-Native-SVN-Support-in-Unity-on-Mac-Windows
 
 
-Change Log
-===
+#Change Log#
 
 1.0 Initial launch of product
 
