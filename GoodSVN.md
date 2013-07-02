@@ -1,6 +1,8 @@
 Good SVN
 ===
 
+[Good SVN](Good SVN) is a product of [Good Products](Good Products)
+
 
 #Authors#
 
