@@ -12,7 +12,7 @@ Tim Graupmann
 
 The core audience is intended for users with Android devices.
 
-End users can use the Good Products without needing to write script or program.
+End users can use the Good Products without needing to write scripts or program.
 
 Programmers can make use of the programming interfaces to extend functionality.
 
