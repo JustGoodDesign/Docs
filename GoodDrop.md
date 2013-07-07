@@ -31,6 +31,21 @@ With Good Drop you can distribute, install, run, uninstall, copy Android Package
 
 to wireless devices locally, and to devices over the Internet.
 
+##Good Drop Panel##
+
+The Good Drop panel can be accessed from the Window->Just Good Design->Good Drop menu item.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788463715.png?1373238943"/>
+
+By default, the Good Drop panel opens with the split option off. This causes the files and devices sections to display in tabs.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788464225.png?1373239135"/>
+
+Selecting the split option will cause the files and devices sections to display in the same panel.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788464662.png?1373239303"/>
+
+
 
 #Q & A#
 
