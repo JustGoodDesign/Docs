@@ -47,6 +47,8 @@ The Settings menu items handle the device cache, import, and export.
 
 In the file submenu you have a file list of recent apks that you've been working with.
 
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788466259.png?1373239878"/>
+
 ###Device Sub Menu###
 
 The device sub menu allows you to refresh the displayed list of connected Android devices.
@@ -60,8 +62,6 @@ The ADB gives you access to GUI that wraps the Android Debugger. Set the Android
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788469064.png?1373240924"/>
 
 ###Split Sub Menu###
-
-<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788466259.png?1373239878"/>
 
 By default, the Good Drop panel opens with the split option off. This causes the files and devices sections to display in tabs.
 
