@@ -47,6 +47,18 @@ The Settings menu items handle the device cache, import, and export.
 
 In the file submenu you have a file list of recent apks that you've been working with.
 
+###Device Sub Menu###
+
+The device sub menu allows you to refresh the displayed list of connected Android devices.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788468551.png?1373240732"/>
+
+###ADB Sub Menu###
+
+The ADB gives you access to GUI that wraps the Android Debugger. Set the Android SDK path and then the menu can update to the latest adb. With adb you can start/stop the adb server and open an interactive shell. Open the ADB help for the full list of adb options.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788469064.png?1373240924"/>
+
 ###Split Sub Menu###
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788466259.png?1373239878"/>
@@ -59,7 +71,11 @@ Selecting the split option will cause the files and devices sections to display 
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788464662.png?1373239303"/>
 
+###Help Sub Menu###
 
+From the Help sub menu, there are quick links to the Good Drop documentation and helper links to Android documentation.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788469590.png?1373241136"/>
 
 #Q & A#
 
