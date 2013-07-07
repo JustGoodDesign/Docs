@@ -37,6 +37,20 @@ The Good Drop panel can be accessed from the Window->Just Good Design->Good Drop
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788463715.png?1373238943"/>
 
+The Settings menu items handle the device cache, import, and export.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788466787.png?1373240063"/>
+
+##Sub Menus##
+
+###File Sub Menu###
+
+In the file submenu you have a file list of recent apks that you've been working with.
+
+###Split Sub Menu###
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788466259.png?1373239878"/>
+
 By default, the Good Drop panel opens with the split option off. This causes the files and devices sections to display in tabs.
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788464225.png?1373239135"/>
