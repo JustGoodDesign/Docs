@@ -123,6 +123,12 @@ The deploy tab provides quick selection and remote deployment of Android package
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788484768.png?1373246760"/>
 
+###Time###
+
+Deploying Android packages to devices can take several minutes depending on the file size that you are sending across. Keep an eye on the ADB info which can indicate sending gigabytes across USB can take some time.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788503247.png?1373252884"/>
+
 #Q & A#
 
 You can send comments/questions to unity@justgooddesign.com and please rate this package.
