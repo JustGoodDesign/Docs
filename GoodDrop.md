@@ -95,6 +95,11 @@ From the device popup, the Refresh Packages gets a list of all the packages inst
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788477414.png?1373244119"/>
 
+###Download Packages###
+
+When the package list has been refreshed, there is a menu item available to download each package. The menu item will open a File Save Dialog where the APK will be downloaded.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788478861.png?1373244663"/>
 
 #Q & A#
 
