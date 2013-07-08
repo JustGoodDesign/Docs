@@ -79,7 +79,7 @@ From the Help sub menu, there are quick links to the Good Drop documentation and
 
 ##Devices Tab##
 
-Connected devices display in the devices tab. Devices can be connected via usb and wireless adb. The wireless subpanel connected to Android devices in wireless mode using their IP address and port. Connected devices can be selected for use in the deploy tab.
+Connected devices display in the devices tab. Devices can be connected via usb and wireless adb. The wireless subpanel can connect to Android devices in wireless mode using their IP address and port. Connected devices can be selected for use in the deploy tab.
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788474831.png?1373243173"/>
 
