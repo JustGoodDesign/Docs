@@ -83,6 +83,12 @@ Connected devices display in the devices tab. Devices can be connected via usb a
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788474831.png?1373243173"/>
 
+###Device Info###
+
+Each device has a popout which gives access to the device info which can be copied to the clipboard using the menu item.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788476660.png?1373243837"/>
+
 #Q & A#
 
 You can send comments/questions to unity@justgooddesign.com and please rate this package.
