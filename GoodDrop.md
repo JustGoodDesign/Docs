@@ -107,6 +107,12 @@ On the devices tab, using the popup the memory information for the bundle identi
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788480736.png?1373245343"/>
 
+###Remote Key Input###
+
+From the Remote Key Input sub panel, the drop down sets the device focus. With the text field selected, keyboard pressed are forwarded to the selected Android device.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788482947.png?1373246145"/>
+
 #Q & A#
 
 You can send comments/questions to unity@justgooddesign.com and please rate this package.
