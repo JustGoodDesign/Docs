@@ -109,9 +109,13 @@ On the devices tab, using the popup the memory information for the bundle identi
 
 ###Remote Key Input###
 
-From the Remote Key Input sub panel, the drop down sets the device focus. With the text field selected, keyboard pressed are forwarded to the selected Android device.
+From the Remote Key Input sub panel, the drop down sets the device focus. With the text field selected, keyboard presses are forwarded to the selected Android device.
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788482947.png?1373246145"/>
+
+Click the Buttons expander to show the available buttons to send to the remote Android device. Click the expanded buttons to send the KeyEvent to the remote Android device.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788483659.png?1373246388"/>
 
 #Q & A#
 
