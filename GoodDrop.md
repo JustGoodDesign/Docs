@@ -123,6 +123,10 @@ The deploy tab provides quick selection and remote deployment of Android package
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788484768.png?1373246760"/>
 
+Each package in the deploy tab has an open details popout where you can access the apk details and content.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788541091.png?1373265077"/>
+
 ###Time###
 
 Deploying Android packages to devices can take several minutes depending on the file size that you are sending across. Keep an eye on the ADB info which can indicate sending gigabytes across USB can take some time.
