@@ -119,7 +119,7 @@ Click the Buttons expander to show the available buttons to send to the remote A
 
 ##Deploy Tab##
 
-The deploy tab provides quick selection and remote deployment of Android packages. The panel supports drag/drop functionality from Windows Explorer and Mac Finder. APKs can also be added from the file menu. Additionally packages can be added with the "+" add button, and the "\" folder option will select an entire folder of packages. The run command will be applied to the selected devices on the deploy tab. The run command is also affected by the selected packages. The informational section displays the number of selected devices, the number of selected files, and the content size that will be sent during install to those devices. There are several run commands available: "Install and Run", "Install", "Uninstall", "Run", and "Kill Processes".
+The deploy tab provides quick selection and remote deployment of Android packages. The panel supports drag/drop functionality from Windows Explorer and Mac Finder. APKs can also be added from the file menu. Additionally packages can be added with the "+" add button, and the "\" folder option will select an entire folder of packages. The run command will be applied to the selected devices on the devices tab. The run command is also affected by the selected packages on the deploy tab. The informational section displays the number of selected devices, the number of selected files, and the content size that will be sent during install to those devices. There are several run commands available: "Install and Run", "Install", "Uninstall", "Run", and "Kill Processes".
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788484768.png?1373246760"/>
 
