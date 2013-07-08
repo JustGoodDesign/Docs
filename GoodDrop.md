@@ -101,6 +101,12 @@ When the package list has been refreshed, there is a menu item available to down
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788478861.png?1373244663"/>
 
+###Process Memory###
+
+On the devices tab, using the popup the memory information for the bundle identifier is available by selecting the menu item.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788480736.png?1373245343"/>
+
 #Q & A#
 
 You can send comments/questions to unity@justgooddesign.com and please rate this package.
