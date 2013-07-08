@@ -89,6 +89,13 @@ Each device has a popout which gives access to the device info which can be copi
 
 <img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788476660.png?1373243837"/>
 
+###Refresh Packages###
+
+From the device popup, the Refresh Packages gets a list of all the packages installed on the selected device.
+
+<img src="http://d3j5vwomefv46c.cloudfront.net/photos/large/788477414.png?1373244119"/>
+
+
 #Q & A#
 
 You can send comments/questions to unity@justgooddesign.com and please rate this package.
