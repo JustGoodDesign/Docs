@@ -1,7 +1,7 @@
 Good SVN
 ===
 
-Good SVN is a product of [Good Products](README.md)
+Good SVN is a product of [Good Products](README.md) available in the [Unity Asset Store](https://www.assetstore.unity3d.com/#/content/7242).
 
 
 #Authors#
