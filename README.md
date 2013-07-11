@@ -28,9 +28,9 @@ Good Products are a suite of tools that increase the accessibility and usability
 
 Good Products gives you a graphical user interface to interact with the Android software development kit.
 
-[Good Drop](GoodDrop.md) - [Asset Store](https://www.assetstore.unity3d.com/#/content/5424) Adds remote management for your Android devices from Unity.
+[Good Drop](GoodDrop.md) - [[Asset Store]](https://www.assetstore.unity3d.com/#/content/5424) Adds remote management for your Android devices from Unity.
 
-[Good SVN](GoodSVN.md) - [Asset Store](https://www.assetstore.unity3d.com/#/content/7242) Adds integrated subversion clients into Unity.
+[Good SVN](GoodSVN.md) - [[Asset Store]](https://www.assetstore.unity3d.com/#/content/7242) Adds integrated subversion clients into Unity.
 
 Good Products is a large suite of tools which are in the process of adding documentation.
 
