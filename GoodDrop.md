@@ -6,7 +6,7 @@ GOOD DROP
 
 #Authors#
 
-Jesse Graupmann | [Just Good Design](http://www.justgooddesign.com/)
+[Jesse Graupmann](https://plus.google.com/113634720692058569075) | [Just Good Design](http://www.justgooddesign.com/)
 
 Tim Graupmann
 
