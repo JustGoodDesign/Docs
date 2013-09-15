@@ -1,12 +1,12 @@
 Good SVN
 ===
 
-Good SVN is a product of [Good Products](README.md) available in the [Unity Asset Store](https://www.assetstore.unity3d.com/#/content/7242).
+[Good SVN](http://www.justgooddesign.com/products/unity3d/good-svn/) is a product of [Good Products](README.md) available in the [Unity Asset Store](https://www.assetstore.unity3d.com/#/content/7242).
 
 
 #Authors#
 
-Jesse Graupmann
+[Jesse Graupmann](https://plus.google.com/113634720692058569075) | [Just Good Design](http://www.justgooddesign.com/)
 
 Tim Graupmann
 
