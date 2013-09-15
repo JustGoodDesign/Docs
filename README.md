@@ -3,7 +3,7 @@ Good Products
 
 #Authors#
 
-Jesse Graupmann
+[Jesse Graupmann](https://plus.google.com/113634720692058569075) | [Just Good Design](http://www.justgooddesign.com/)
 
 Tim Graupmann
 
