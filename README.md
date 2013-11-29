@@ -5,7 +5,7 @@ Good Products
 
 [Jesse Graupmann](https://plus.google.com/113634720692058569075) | [Just Good Design](http://www.justgooddesign.com/)
 
-Tim Graupmann
+<a target=_blank href="https://github.com/tgraupmann/TAGENIGMA-Docs">[Tim Graupmann]</a>
 
 
 #Audience#
