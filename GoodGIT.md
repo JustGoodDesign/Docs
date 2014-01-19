@@ -89,15 +89,13 @@ You'll find 'G|GIT' in the standard preferences.
 
 If the GIT Type is set to TortoiseGIT, additional options appear.
 
-On Windows, you can set the path to TortoiseProc.exe which is a command-line tool within the
+On Windows, you can set the path to TortoiseGitProc.exe which is a command-line tool within the
 
 TortoiseGIT. It requires that the command-line tools for TortoiseGIT were installed.
 
 On Mac, you need to enter the Bottle Name which TortoiseGIT is installed. The preferences
 
-default to "TortoiseGIT". Here is were you could choose between GIT 1.6 and 1.7 using side
-
-by side installs.
+default to "TortoiseGIT".
 
 
 #Good GIT Panel#
@@ -107,33 +105,39 @@ Good GIT has areas divided out into "Assets", "Project Settings", "Files, and "C
 "Assets" has common functions:
 
 ```
-> Update - Runs GIT Update in the Assets folder
+> Pull - Runs GIT Pull in the Assets folder
 
 > Commit - Runs GIT Commit in the Assets folder
 
 > Add - Runs GIT Add in the Assets folder
+
+> Push - Runs GIT Push in the Assets folder
 ```
 
 "Project Settings" has common functions:
 
 ```
-> Update - Runs GIT Update in the ProjectSettings folder
+> Pull - Runs GIT Pull in the ProjectSettings folder
 
 > Commit - Runs GIT Commit in the ProjectSettings folder
 
 > Add - Runs GIT Add in the ProjectSettings folder
+
+> Push - Runs GIT Push in the ProjectSettings folder
 ```
 
 "File" does operations to folders and files selected in the project view:
 
 ```
-> Update - Runs GIT Update on the selected file(s)
+> Pull - Runs GIT Pull on the selected file(s)
 
 > Commit - Runs GIT Commit on the selected file(s)
 
 > Add - Runs GIT Add on the selected file(s)
 
 > Remove - Runs GIT Remove on the selected file(s)
+
+> Push - Runs GIT Push on the selected file(s)
 
 > Lock - Locks the selected file(s)
 
@@ -146,7 +150,7 @@ Good GIT has areas divided out into "Assets", "Project Settings", "Files, and "C
 > Edit Conflicts - Opens edit conflicts on the selected file(s)
 ```
 
-"Commands" has common functions:
+"Commands" common functions:
 
 ```
 > Revert - Runs GIT revert on the selected file(s)
@@ -158,6 +162,8 @@ Good GIT has areas divided out into "Assets", "Project Settings", "Files, and "C
 > Browser - Opens the repro browser on the selected file(s)
 
 > CleanUp - Runs an GIT cleanup at the root level
+
+> Clone - Runs an GIT clone at the specified path
 ```
 
 
@@ -173,5 +179,3 @@ http://forum.unity3d.com/threads/169759-Good-SVN-Native-SVN-Support-in-Unity-on-
 #Change Log#
 
 1.0 Initial launch of product
-
-1.1 Removed editor dependency on Litjson
