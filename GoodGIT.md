@@ -37,7 +37,7 @@ Window->Just Good Design->Links->Tools->CrossOver - CrossOver allows you to run 
 
 Window->Just Good Design->Links->Tools->Putty - Putty has pageant to store your GIT SSH keys
 
-Window->Just Good Design->Links->Tools->TortoiseGIT - Opens the TortoiseGIT version control product page
+Window->Just Good Design->Links->Tools->TortoiseGIT - Opens the <a target=_blank href="https://code.google.com/p/tortoisegit/">[TortoiseGIT]</a> version control product page
 
 Window->Just Good Design->Links->Tools->Winmerge - Is great and free version comparison tool
 ```
@@ -45,7 +45,7 @@ Window->Just Good Design->Links->Tools->Winmerge - Is great and free version com
 
 #Mac Platform#
 
-Good GIT has a hook available using TortoiseGIT on Mac which requires CrossOver office.
+Good GIT has a hook available using <a target=_blank href="https://code.google.com/p/tortoisegit/">[TortoiseGIT]</a> on Mac which requires CrossOver office.
 
 Launch the CrosssOver application, and select "Manage Bottles".
 
@@ -74,7 +74,9 @@ You can access the preferences in the standard preferences with the Unity->Prefe
 
 #Windows#
 
-On Windows, you simply need to install the TortoiseGIT installer with the command-line tools.
+On Windows, you need to install the <a target=_blank href="https://code.google.com/p/tortoisegit/">[TortoiseGIT]</a> installer with the command-line tools.
+
+After installing 'TortoiseGIT', upgrade the GIT client with '<a target=_blank href="https://code.google.com/p/msysgit/">[msysgit]</a>'.
 
 You can access the preferences in the standard preferences with the Edit->Preferences menu item.
 
