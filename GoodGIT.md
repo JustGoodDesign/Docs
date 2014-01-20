@@ -67,11 +67,7 @@ In the "Will install into a new winxp bottle 'Putty', change that to the existin
 
 Install "TortoiseGIT" and "WinMerge" in the same way to that same 'TortoiseGIT' bottle.
 
-If desired you can repeat the same process and create separate bottles for GIT 1.6 and 1.7 that
-
-can live side by side. Mac by default has GIT 1.6 command-line support. And this CrossOver setup
-
-is the fastest way to add support for GIT 1.7 without a bunch of command line hackery.
+After installing 'TortoiseGIT', upgrade the GIT client with 'msysgit'.
 
 You can access the preferences in the standard preferences with the Unity->Preferences menu item.
 
