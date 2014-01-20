@@ -135,10 +135,6 @@ Good GIT has areas divided out into "Assets", "Project Settings", "Files, and "C
 
 > Push - Runs GIT Push on the selected file(s)
 
-> Lock - Locks the selected file(s)
-
-> Unlock - Unlock the selected file(s)
-
 > Diff - Runs GIT diff on the selected file(s)
 
 > Rename - Renames on the selected file(s) including a meta file popup
