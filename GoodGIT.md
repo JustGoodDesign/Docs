@@ -37,7 +37,7 @@ Window->Just Good Design->Links->Tools->CrossOver - CrossOver allows you to run 
 
 Window->Just Good Design->Links->Tools->Putty - Putty has pageant to store your GIT SSH keys
 
-Window->Just Good Design->Links->Tools->TortoiseGIT - TortoiseGIT</a> version control product page
+Window->Just Good Design->Links->Tools->TortoiseGIT - TortoiseGIT version control product page
 
 Window->Just Good Design->Links->Tools->Winmerge - Is great and free version comparison tool
 ```
