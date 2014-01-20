@@ -18,7 +18,7 @@ Package contents are targeted towards artists and programmers that want cross-pl
 
 #Compatibility#
 
-This project is targeted for Unity 3.5.0 or better.
+This project is targeted for Unity 3.5.7 or better.
 
 
 #Contents#
