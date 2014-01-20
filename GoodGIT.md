@@ -67,7 +67,7 @@ In the "Will install into a new winxp bottle 'Putty', change that to the existin
 
 Install "TortoiseGIT" and "WinMerge" in the same way to that same 'TortoiseGIT' bottle.
 
-After installing 'TortoiseGIT', upgrade the GIT client with 'msysgit'.
+After installing 'TortoiseGIT', upgrade the GIT client with '<a target=_blank href="https://code.google.com/p/msysgit/">[msysgit]</a>'.
 
 You can access the preferences in the standard preferences with the Unity->Preferences menu item.
 
