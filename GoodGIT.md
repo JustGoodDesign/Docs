@@ -65,7 +65,7 @@ Expand "Commuity Supported Applications" where you'll find "Putty".
 
 In the "Will install into a new winxp bottle 'Putty', change that to the existing 'TortoiseGIT'.
 
-Install "TortoiseGIT" and "WinMerge" in the same way to that same 'TortoiseGIT' bottle.
+Install "<a target=_blank href="https://code.google.com/p/tortoisegit/">[TortoiseGIT]</a>" and "<a target=_blank href="http://winmerge.org">[WinMerge]</a>" in the same way to that same 'TortoiseGIT' bottle.
 
 After installing 'TortoiseGIT', upgrade the GIT client with '<a target=_blank href="https://code.google.com/p/msysgit/">[msysgit]</a>'.
 
