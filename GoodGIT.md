@@ -167,7 +167,7 @@ You can send comments/questions to unity@justgooddesign.com and please post in t
 
 how you like this product or to make feature requests.
 
-http://forum.unity3d.com/threads/169759-Good-SVN-Native-SVN-Support-in-Unity-on-Mac-Windows
+http://forum.unity3d.com/threads/225172-Good-GIT-GIT-Client-Support-in-Unity-on-Mac-Windows
 
 
 #Change Log#
