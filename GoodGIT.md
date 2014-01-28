@@ -1,7 +1,7 @@
 Good GIT
 ===
 
-[Good GIT](http://www.justgooddesign.com/products/unity3d/good-git/) is a product of [Good Products](README.md) available in the [Unity Asset Store](https://www.assetstore.unity3d.com/#/content/7242).
+[Good GIT](http://www.justgooddesign.com/products/unity3d/good-git/) is a product of [Good Products](README.md) available in the [Unity Asset Store](https://www.assetstore.unity3d.com/#/content/14550).
 
 
 #Authors#
