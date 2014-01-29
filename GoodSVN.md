@@ -175,3 +175,7 @@ http://forum.unity3d.com/threads/169759-Good-SVN-Native-SVN-Support-in-Unity-on-
 1.0 Initial launch of product
 
 1.1 Removed editor dependency on Litjson
+
+1.2 Removed dependency on litjson. Added screenshots. Updated icons. Updated version
+
+1.3 Made project compatible with Good GIT
