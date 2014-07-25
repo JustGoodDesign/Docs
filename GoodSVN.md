@@ -22,13 +22,13 @@ This project is targeted for Unity 3.5.7 or better.
 
 ##Windows##
 
-- On Windows, GoodSVN uses the free <a target=_blank href="http://tortoisesvn.net/">[TortoiseSVN]</a> client to be installed. The GoodSVN plugin makes the SVN client functions available as a panel within Unity.
+- On Windows, GoodSVN requires installing the free <a target=_blank href="http://tortoisesvn.net/">[TortoiseSVN]</a> client.
 
 ##Mac##
 
 - On Mac, <a target=_blank href="http://www.codeweavers.com/">[CrossOver Mac]</a> is required (free eval is available) in order to install the TortoiseSVN client.
 
-- On Mac, GoodSVN uses the free <a target=_blank href="http://tortoisesvn.net/">[TortoiseSVN]</a> client to be installed. The GoodSVN plugin makes the SVN client functions available as a panel within Unity.
+- On Mac, GoodSVN requires installing the free <a target=_blank href="http://tortoisesvn.net/">[TortoiseSVN]</a> client.
 
 #Contents#
 
