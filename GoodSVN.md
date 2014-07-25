@@ -20,6 +20,15 @@ Package contents are targeted towards artists and programmers that want cross-pl
 
 This project is targeted for Unity 3.5.7 or better.
 
+##Windows##
+
+- On Windows, GoodSVN uses the free <a target=_blank href="http://tortoisesvn.net/">[TortoiseSVN]</a> client to be installed. The GoodSVN plugin makes the SVN client functions available as a panel within Unity.
+
+##Mac##
+
+- On Mac, <a target=_blank href="http://www.codeweavers.com/">[CrossOver Mac]</a> is required (free eval is available) in order to install the TortoiseSVN client.
+
+- On Mac, GoodSVN uses the free <a target=_blank href="http://tortoisesvn.net/">[TortoiseSVN]</a> client to be installed. The GoodSVN plugin makes the SVN client functions available as a panel within Unity.
 
 #Contents#
 
